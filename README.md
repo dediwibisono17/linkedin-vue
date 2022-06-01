@@ -1,3 +1,3 @@
 # linkedin-vue
-pertama: npm install
-untukmenjalankan: npm run serve
+pertama: npm  
+untuk menjalankan: npm run serve
